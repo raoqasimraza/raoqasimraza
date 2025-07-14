@@ -15,6 +15,7 @@ I write clean code. I love solving problems.
 - Git & GitHub  
 
 ## Education
-- **Air University Multan** — BSc in Computer Science
+- **Air University Multan** — BS in Software Engineering
+- 
 
 
